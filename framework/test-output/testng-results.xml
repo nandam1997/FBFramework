@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-18T23:21:20 IST" name="Default suite" finished-at="2022-10-18T23:21:41 IST" duration-ms="20919">
+    <groups>
+    </groups>
+    <test started-at="2022-10-18T23:21:20 IST" name="Default test" finished-at="2022-10-18T23:21:41 IST" duration-ms="20919">
+      <class name="my.first.framework.fb.FB_TestCase">
+        <test-method signature="fb_login()[pri:0, instance:my.first.framework.fb.FB_TestCase@16d04d3d]" started-at="2022-10-18T23:21:21 IST" name="fb_login" finished-at="2022-10-18T23:21:41 IST" duration-ms="20729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fb_login -->
+      </class> <!-- my.first.framework.fb.FB_TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
